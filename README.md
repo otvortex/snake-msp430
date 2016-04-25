@@ -1,4 +1,4 @@
-# snake-msp430
+# LED Snake Final Project for EC450
 
 ## What it intends to do
 
