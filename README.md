@@ -1,4 +1,5 @@
 # LED Snake Final Project for EC450
+by Oleg Teplyuk & Barron Roth
 
 ## What it intends to do
 
